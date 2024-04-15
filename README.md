@@ -1,7 +1,6 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
-### AIM :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+### AIM :To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
 
 
 ### NAME : BEATRICE THOMAS
